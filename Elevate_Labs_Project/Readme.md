@@ -1,3 +1,4 @@
+Here, i am updating and installing python3-env
 <p align="center">
    <img src="Images/Image1.jpg" width=900 />
 </p>
@@ -183,6 +184,44 @@ This is the image i used to hide my text.
 <p align="center">
    <img src="Images/Text_hiding_image.jpg" width=900 />
 </p>
+
+This is the image i am selecting where i need to hide my data.
+
+<p align="center">
+   <img src="Images/Image6.jpg" width=900 />
+</p>
+
+Here, I am writing the text which i need to hide.
+
+<p align="center">
+   <img src="Images/Image7.jpg" width=900 />
+</p>
+
+Clicking on option to hide and giving name of the file.
+
+<p align="center">
+   <img src="Images/Image8.jpg" width=900 />
+</p>
+
+Here, clicked on option hide message.
+
+<p align="center">
+   <img src="Images/Image9.jpg" width=900 />
+</p>
+To check whether message is hiiden or not.
+
+<p align="center">
+   <img src="Images/Image10.jpg" width=900 />
+</p>
+Click on extract message.
+Here, we can see that message is extracted exatly what i entered previously.
+<p align="center">
+   <img src="Images/Image11.jpg" width=900 />
+</p>
+
+
+
+
 
 
 
