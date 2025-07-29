@@ -1,18 +1,34 @@
+<p align="center">
+   <img src="Images/Image1.jpg" width=900 />
+</p>
+
 Step 1: Create Project Folder
 ```bash
 mkdir SteganographyTool
 cd SteganographyTool
 ```
 
+<p align="center">
+   <img src="Images/Image3.jpg" width=900 />
+</p>
+
 Step 2: Set Up a Virtual Environment
+
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 ```
+
+<p align="center">
+   <img src="Images/Image2.jpg" width=900 />
+</p>
+
 Step 3: Install Required Python Libraries
+
 ```bash
 pip install pillow
 ```
+
 Step 4: Create the GUI Python Script
 ```bash
 import tkinter as tk
@@ -135,10 +151,16 @@ if __name__ == "__main__":
     app = SteganographyApp(root)
     root.mainloop()
 ```
+
 Step 5: Run the Application
+
 ```bash
 python steganography_gui.py
 ```
+<p align="center">
+   <img src="Images/image4.jpg" width=900 />
+</p>
+
 Step 6: Using the Tool
 Click "Select Image" to choose a .png or .bmp image.
 
@@ -151,3 +173,18 @@ Yes: It will replace the image.
 No: You can give a new file name.
 
 To check if the message is hidden, click "Extract Message" and it will display the hidden message from the image.
+
+<p align="center">
+   <img src="Images/Image5.jpg" width=900 />
+</p>
+
+This is the image i used to hide my text.
+
+<p align="center">
+   <img src="Images/Text_hiding_image.jpg" width=900 />
+</p>
+
+
+
+
+
